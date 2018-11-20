@@ -1,0 +1,336 @@
+[1116/172920.479:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.670:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172920.670:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.692:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172920.692:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.706:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172920.835:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.845:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172920.845:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.856:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172920.856:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.866:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172920.869:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.881:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172920.882:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.913:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172920.914:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172920.952:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172947.902:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.006:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172948.006:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.067:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172948.068:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.080:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172948.084:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.386:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172948.386:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.406:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172948.406:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.417:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172948.417:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.428:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172948.429:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.452:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172948.452:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.469:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/172948.539:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.585:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/172948.585:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.597:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/172948.597:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/172948.607:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173029.352:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.361:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.362:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.402:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173029.402:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.414:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173029.517:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.548:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.548:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.559:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173029.559:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.577:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173029.580:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.604:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.604:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.618:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173029.618:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.688:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173029.709:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.721:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.722:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.810:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173029.810:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.895:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173029.942:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.962:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.962:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.973:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173029.973:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173029.991:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173029.991:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.001:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173030.002:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.051:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173030.051:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.065:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173030.272:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.344:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173030.344:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.390:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173030.390:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173030.411:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.764:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.772:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.772:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.779:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.780:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.789:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.830:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.838:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.838:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.846:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.846:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.855:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.857:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.864:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.864:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.873:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.873:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.882:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.887:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.894:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.894:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.903:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.904:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.912:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.915:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.926:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.926:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.934:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173130.934:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.944:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.944:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.953:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173130.953:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.961:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173130.961:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173130.969:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173131.012:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173131.022:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173131.022:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173131.029:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173131.030:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173131.039:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173224.934:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.940:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173224.941:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.947:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173224.947:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.953:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173224.969:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.976:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173224.976:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.982:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173224.982:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.988:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173224.990:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173224.996:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173224.997:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.002:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173225.002:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.010:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173225.015:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.021:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173225.021:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.027:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173225.027:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.033:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173225.036:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.042:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173225.042:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.048:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173225.048:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.054:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173225.054:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.059:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173225.060:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.066:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173225.066:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.072:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173225.113:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.119:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173225.119:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.125:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173225.126:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173225.131:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.795:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.801:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.801:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.807:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.807:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.815:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.817:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.828:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.828:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.838:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.838:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.845:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.847:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.855:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.855:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.861:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.861:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.868:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.871:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.878:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.878:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.884:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.885:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.891:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.894:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.900:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.900:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.906:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.906:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.912:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.918:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.918:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.925:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.925:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.931:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173315.968:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77160000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.975:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1116/173315.975:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.982:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173315.982:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173315.988:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.092:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.098:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.098:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.104:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.104:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.110:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.111:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.118:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.118:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.124:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.125:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.130:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.132:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.138:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.138:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.144:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.144:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.150:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.154:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.160:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.160:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.166:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.166:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.171:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.174:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.180:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.180:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.186:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.186:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.191:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.191:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.197:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.197:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.203:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.203:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.208:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1116/173411.226:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77380000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.232:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\SYSTEM32\ntdll.dll
+[1116/173411.232:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff600000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.238:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1116/173411.238:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7fefe180000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1116/173411.243:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180053.960:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.148:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180054.148:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.169:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180054.169:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.183:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180054.239:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.247:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180054.247:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.263:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180054.263:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.271:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180054.276:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.286:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180054.286:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.300:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180054.300:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180054.311:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180108.876:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.895:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180108.895:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.925:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180108.925:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.955:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180108.957:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.976:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180108.976:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.983:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180108.983:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180108.997:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180108.998:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.026:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.026:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.037:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.037:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.059:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.161:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.177:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.177:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.189:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.189:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.204:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.205:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.221:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.221:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.229:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.229:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.239:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.241:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.250:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.250:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.295:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.295:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.307:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.323:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.353:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.353:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.360:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.360:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.375:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.395:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.395:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.395:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.395:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.395:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.395:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.378:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.472:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.472:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.480:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.480:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.489:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.489:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.498:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.498:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.507:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.507:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.553:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
+[1119/180109.673:ERROR:process_reader_win.cc(242)] ReadMemory at 0x77890000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.682:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\kernel32.dll
+[1119/180109.682:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feffd30000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.719:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\KERNELBASE.dll
+[1119/180109.720:ERROR:process_reader_win.cc(242)] ReadMemory at 0x7feff240000 of 64 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[1119/180109.728:WARNING:pe_image_reader.cc(302)] could not read dos header from C:\windows\system32\msvcrt.dll
